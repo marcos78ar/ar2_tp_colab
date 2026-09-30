@@ -3,3 +3,7 @@ Para quien le sea útil, se trata de un trabajo práctico para la materia Aprend
 El trabajo práctico consiste en aplicar una técnica de AR, en este caso TD3 de la plataforma SB3, a un entorno simulado con el motor de física PyBullet, en el que un vehículo de 4 ruedas, con tracción trasera y dirección delantera rígida sin diferencial tipo Kart, aprende una maniobra de estacionamiento en paralelo y en reversa.
 
 Basado en el proyecto https://github.com/leonardeee/RL-Auto-Parking- 
+
+<p align="center">
+  <video src="modelo_entrenado/video-MoviePy.mp4" width="100%" autoplay muted loop playsinline></video>
+</p>
