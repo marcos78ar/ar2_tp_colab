@@ -5,5 +5,5 @@ El trabajo práctico consiste en aplicar una técnica de AR, en este caso TD3 de
 Basado en el proyecto https://github.com/leonardeee/RL-Auto-Parking- 
 
 <p align="center">
-  <video src="modelo_entrenado/video-MoviePy.mp4" width="100%" autoplay muted loop playsinline></video>
+  <video src="modelo_entrenado/video-MoviePy.mp4" width="100%" autoplay muted loop></video>
 </p>
